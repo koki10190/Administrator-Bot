@@ -1,0 +1,22 @@
+{
+	"name": "the-administrator",
+	"version": "1.0.0",
+	"description": "Overtime",
+	"main": "bot.ts",
+	"scripts": {
+		"start": "ts-node . --resolveJsonModule"
+	},
+	"author": "koki1019",
+	"license": "ISC",
+	"dependencies": {
+		"canvafy": "^2.1.0",
+		"discord-card-canvas": "^1.2.5",
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3",
+		"timestring": "^6.0.0",
+		"ts-node": "^10.9.1"
+	},
+	"devDependencies": {
+		"@types/timestring": "^6.0.2"
+	}
+}
